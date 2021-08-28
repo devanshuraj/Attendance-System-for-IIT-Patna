@@ -28,7 +28,6 @@ by clicking on the corresponding button we get the sheet for that valid combinat
 
 ![WhatsApp Image 2021-08-28 at 8 40 12 PM](https://user-images.githubusercontent.com/44442512/131223113-fc5320d1-da15-4799-9199-e159bee8f338.jpeg)
 
-[5_6147734527281201890.pdf](https://github.com/devanshuraj/Attendance-System-for-IIT-Patna/files/7070945/5_6147734527281201890.pdf)
 
 [2020-02-24_Monday_Morning_merged.pdf](https://github.com/devanshuraj/Attendance-System-for-IIT-Patna/files/7070950/2020-02-24_Monday_Morning_merged.pdf)
 
